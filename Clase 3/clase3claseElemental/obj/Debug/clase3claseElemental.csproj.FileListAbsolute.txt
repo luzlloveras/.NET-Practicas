@@ -1,0 +1,8 @@
+C:\Users\Luz Lloveras\Documents\UTN\NIVEL 3\PROGRAMACION 3\.NET programas\Clase 2\clase3claseElemental\obj\Debug\clase3claseElemental.csproj.AssemblyReference.cache
+C:\Users\Luz Lloveras\Documents\UTN\NIVEL 3\PROGRAMACION 3\.NET programas\Clase 2\clase3claseElemental\obj\Debug\clase3claseElemental.csproj.SuggestedBindingRedirects.cache
+C:\Users\Luz Lloveras\Documents\UTN\NIVEL 3\PROGRAMACION 3\.NET programas\Clase 2\clase3claseElemental\obj\Debug\clase3claseElemental.csproj.CoreCompileInputs.cache
+C:\Users\Luz Lloveras\Documents\UTN\NIVEL 3\PROGRAMACION 3\.NET programas\Clase 2\clase3claseElemental\bin\Debug\clase3claseElemental.exe.config
+C:\Users\Luz Lloveras\Documents\UTN\NIVEL 3\PROGRAMACION 3\.NET programas\Clase 2\clase3claseElemental\bin\Debug\clase3claseElemental.exe
+C:\Users\Luz Lloveras\Documents\UTN\NIVEL 3\PROGRAMACION 3\.NET programas\Clase 2\clase3claseElemental\bin\Debug\clase3claseElemental.pdb
+C:\Users\Luz Lloveras\Documents\UTN\NIVEL 3\PROGRAMACION 3\.NET programas\Clase 2\clase3claseElemental\obj\Debug\clase3claseElemental.exe
+C:\Users\Luz Lloveras\Documents\UTN\NIVEL 3\PROGRAMACION 3\.NET programas\Clase 2\clase3claseElemental\obj\Debug\clase3claseElemental.pdb
